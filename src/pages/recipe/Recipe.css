@@ -1,6 +1,6 @@
 .recipe {
     max-width: 1200px;
-    margin: 40px auto;
+    margin: 40px 10px;
     text-align: center;
     background-color: #fff;
     padding: 40px;
@@ -46,3 +46,4 @@
     text-decoration: none;
     margin: 40px auto;
 }
+

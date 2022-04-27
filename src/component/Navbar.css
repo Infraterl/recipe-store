@@ -1,6 +1,6 @@
 .navbar {
     background: #106570;
-    padding: 20px;
+    padding: 20px 5px;
     color: #fff;
 }
 
@@ -30,3 +30,8 @@
     background-color: #fff;
     color: #333;
 }
+
+@media (max-width: 600px) {
+  .navbar a:last-child {margin-left: 10px}
+}
+

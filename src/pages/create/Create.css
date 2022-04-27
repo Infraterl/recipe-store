@@ -35,3 +35,7 @@
  .ingredients button {
      margin: 0 0 0 10px;
  }
+
+ @media (max-width: 600px) {
+    .create {margin: 60px 10px;}
+  }

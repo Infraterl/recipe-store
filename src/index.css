@@ -34,3 +34,7 @@ input, textarea {
   text-align: center;
   margin: 40px auto;
 }
+
+@media (max-width: 600px) {
+  body {font-size: unset}
+}
